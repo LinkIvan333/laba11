@@ -1,3 +1,4 @@
+// Copyright 2020 <LinkIvan333>
 #include "builder.hpp"
 
 void build(int argc, char* argv[]) {

@@ -1,3 +1,4 @@
+// Copyright 2020 <LinkIvan333>
 #pragma once
 #include <async++.h>
 #include <boost/process.hpp>
